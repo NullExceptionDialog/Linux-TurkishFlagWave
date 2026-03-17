@@ -1,3 +1,5 @@
+ ### Careful, now. If you have epilepsy or you don't like super fast changing colors and pixels, i'd rather you not run this...
+
 ## Run on Linux
 
 Run these commands in a terminal:
